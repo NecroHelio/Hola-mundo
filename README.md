@@ -1,4 +1,4 @@
 # Hola-mundo
 Solo otro repositorio
 
-Este es un repositorio de prueba que séra usado para  guardar codigo de js y html5 
+Este es una rama de prueba que aún no contiene ningún cambio.
